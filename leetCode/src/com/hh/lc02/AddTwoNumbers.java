@@ -1,4 +1,4 @@
-package com.hh.leetcode;
+package com.hh.lc02;
 
 public class AddTwoNumbers {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class AddTwoNumbers {
     }
 }
 
-class Solution1 {
+class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
         return new ListNode();
