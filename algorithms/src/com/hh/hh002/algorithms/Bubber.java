@@ -1,4 +1,4 @@
-package com.hh.algorithms;
+package com.hh.hh002.algorithms;
 
 import java.util.Arrays;
 //冒泡排序
